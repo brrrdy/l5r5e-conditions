@@ -2,20 +2,22 @@
   "name": "l5r5e-conditions",
   "title": "L5R 5e Conditions",
   "description": "Replaces default token condition icons with icons appropriate for the L5R 5e game system.",
+  "version": "0.0.1",  
   "authors": [
     {
       "name": "brrrdy",
       "url": "https://github.com/brrrdy"  
     }
   ],
+  "minimumCoreVersion": "0.5.5",  
+  "compatibleCoreVersion": "0.7.9",  
   "url": "https://github.com/brrrdy/l5r5e-conditions",
   "bugs": "https://github.com/brrrdy/l5r5e-conditions/issues",
   "readme": "https://github.com/brrrdy/l5r5e-conditions/blob/main/README.md",
   "license": "https://github.com/brrrdy/l5r5e-conditions/blob/main/LICENSE",
   "system": "l5r5e",
-  "version": "0.0.1",
-  "compatibleCoreVersion": "0.7.9",
-  "minimumCoreVersion": "0.5.5",
+
+
   "languages": [
     {
       "lang": "en",
