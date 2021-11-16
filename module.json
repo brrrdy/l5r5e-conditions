@@ -16,8 +16,7 @@
   "readme": "https://github.com/brrrdy/l5r5e-conditions/blob/main/README.md",
   "license": "https://github.com/brrrdy/l5r5e-conditions/blob/main/LICENSE",
   "system": "l5r5e",
-
-
+  "download": "https://github.com/brrrdy/l5r5e-conditions/archive/main.zip",
   "languages": [
     {
       "lang": "en",
