@@ -1,0 +1,18 @@
+{
+  "L5R-CONDITION.Afflicted": "Afflicted",
+  "L5R-CONDITION.Bleeding": "Bleeding",
+  "L5R-CONDITION.Burning": "Burning",
+  "L5R-CONDITION.Compromised": "Compromised",
+  "L5R-CONDITION.Dazed": "Dazed",
+  "L5R-CONDITION.Disoriented": "Disoriented",
+  "L5R-CONDITION.Dying": "Dying",
+  "L5R-CONDITION.Enraged": "Enraged",
+  "L5R-CONDITION.Exhausted": "Exhausted",
+  "L5R-CONDITION.Immobilized": "Immobilized",
+  "L5R-CONDITION.Incapacitated": "Incapacitated",
+  "L5R-CONDITION.Intoxicated": "Intoxicated",
+  "L5R-CONDITION.Prone": "Prone",
+  "L5R-CONDITION.Silenced": "Silenced",
+  "L5R-CONDITION.Unconscious": "Unconscious",
+  "L5R-CONDITION.Wounded": "Wounded"
+}
