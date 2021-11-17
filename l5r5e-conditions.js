@@ -1,6 +1,6 @@
 const L5RConditionIcons = (() => {
   const loadConditionIcons = function (data) {
-    console.log(L5RCONDITION.Afflicted);
+    console.log(game.i18n.localize('L5RCONDITION.Afflicted'));
   }
 
   Hooks.once("ready", function () {
