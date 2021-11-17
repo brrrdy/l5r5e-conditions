@@ -1,6 +1,6 @@
 const L5RConditionIcons = (() => {
   const loadConditionIcons = function (data) {
-    console.log('Well hello there!');
+    console.log(L5R-CONDITION.Afflicted);
   }
 
   Hooks.once("ready", function () {
