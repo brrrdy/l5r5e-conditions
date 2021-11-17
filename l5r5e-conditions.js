@@ -1,5 +1,5 @@
-const L5RConditionIcons = (() => {
-  const loadConditionIcons = function (data) {
+const L5RConditions = (() => {
+  const loadConditions = function (data) {
     window.CONFIG.statusEffects = [
       {
         'id': 'afflicted',
@@ -10,6 +10,6 @@ const L5RConditionIcons = (() => {
   }
 
   Hooks.once('ready', function () {
-    loadConditionIcons();
+    loadConditions();
   });
 })();
