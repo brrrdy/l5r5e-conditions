@@ -115,7 +115,8 @@ const L5RConditions = (() => {
   });
 
   Hooks.once('renderTokenHUD', () => {
-    const renderedHud = document.querySelector(`#token-hud.status-effects`);
-    renderedHud.classList.add("five-column-conditions");
+    const renderedHud = document.querySelector('#token-hud .status-effects');
+    console.log(renderedHud);
+    renderedHud.classList.add('five-column-conditions');
   });
 })();
