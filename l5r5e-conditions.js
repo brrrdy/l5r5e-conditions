@@ -3,6 +3,31 @@ const L5RConditions = (() => {
     // replace current token status icons w/ l5r ones
     window.CONFIG.statusEffects = [
       {
+        'id': 'stanceAir',
+        'label': game.i18n.localize('L5RCONDITION.StanceAir'),
+        'icon': 'systems/l5r5e/assets/icons/rings/air.svg'
+      },
+      {
+        'id': 'stanceEarth',
+        'label': game.i18n.localize('L5RCONDITION.StanceEarth'),
+        'icon': 'systems/l5r5e/assets/icons/rings/earth.svg'
+      },
+      {
+        'id': 'stanceFire',
+        'label': game.i18n.localize('L5RCONDITION.StanceFire'),
+        'icon': 'systems/l5r5e/assets/icons/rings/fire.svg'
+      },
+      {
+        'id': 'stanceWater',
+        'label': game.i18n.localize('L5RCONDITION.StanceWater'),
+        'icon': 'systems/l5r5e/assets/icons/rings/water.svg'
+      },
+      {
+        'id': 'stanceVoid',
+        'label': game.i18n.localize('L5RCONDITION.StanceVoid'),
+        'icon': 'systems/l5r5e/assets/icons/rings/void.svg'
+      },
+      {
         'id': 'afflicted',
         'label': game.i18n.localize('L5RCONDITION.Afflicted'),
         'icon': 'icons/svg/sun.svg'
