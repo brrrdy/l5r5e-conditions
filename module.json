@@ -28,5 +28,8 @@
   ],
   "scripts": [
     "./l5r5e-conditions.js"
+  ],
+  "sytles": [
+    "./styles/l5r5e-conditions.css"
   ]
 }
