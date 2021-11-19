@@ -1,5 +1,5 @@
 /* Token Icon menu width */
-#token-hud div.status-effects {
+.five-column-conditions {
   width: 125px;
   grid-template-columns: 25px 25px 25px 25px 25px;
 }

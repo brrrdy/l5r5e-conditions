@@ -110,7 +110,12 @@ const L5RConditions = (() => {
     ];
   }
 
-  Hooks.once('ready', function () {
+  Hooks.once('ready', () => {
     loadConditions();
+  });
+
+  Hooks.once('renderTokenHUD', () => {
+    const renderedHud = document.querySelector(`#token-hud.status-effects`);
+    console.log(`I found the token hud!`);
   });
 })();
