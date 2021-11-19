@@ -1,4 +1,9 @@
 {
+  "L5RCONDITION.StanceAir": "Stance: Air",
+  "L5RCONDITION.StanceEarth": "Stance: Earth",
+  "L5RCONDITION.StanceFire": "Stance: Fire",
+  "L5RCONDITION.StanceWater": "Stance: Water",
+  "L5RCONDITION.StanceVoid": "Stance: Void",
   "L5RCONDITION.Afflicted": "Afflicted",
   "L5RCONDITION.Bleeding": "Bleeding",
   "L5RCONDITION.Burning": "Burning",
