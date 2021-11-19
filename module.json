@@ -2,7 +2,7 @@
   "name": "l5r5e-conditions",
   "title": "L5R 5e Conditions",
   "description": "Replaces default token condition icons with icons appropriate for the L5R 5e game system.",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "author": "brrrdy",
   "authors": [
     {
@@ -10,7 +10,7 @@
       "url": "https://github.com/brrrdy"  
     }
   ],
-  "minimumCoreVersion": "0.5.5",  
+  "minimumCoreVersion": "0.7.10",  
   "compatibleCoreVersion": "0.8.9",
   "download": "https://github.com/brrrdy/l5r5e-conditions/archive/main.zip",
   "manifest": "https://raw.githubusercontent.com/brrrdy/l5r5e-conditions/main/module.json",
